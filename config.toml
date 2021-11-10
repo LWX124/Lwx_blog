@@ -1,0 +1,4 @@
+baseURL = 'http://lwx.ac.cn/'
+languageCode = 'en-us'
+title = 'LWX Blog'
+theme = "ananke"
