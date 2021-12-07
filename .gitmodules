@@ -4,3 +4,6 @@
 [submodule "publish/github"]
 	path = publish/github
 	url = git@github.com:LWX124/LWX124.github.io.git
+[submodule "themes/hugo-nuo"]
+	path = themes/hugo-nuo
+	url = git@github.com:laozhu/hugo-nuo.git
