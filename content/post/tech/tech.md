@@ -8,7 +8,7 @@ draft: false
 
 # iOS 相关
 
-[iOS 面试合集](../ios-interview1/)
+[iOS Runtime探究系列1 - 消息转发底层原理](/post/tech/ios-runtime-messagesend/)
 
 
 

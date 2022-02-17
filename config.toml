@@ -47,12 +47,12 @@ copyright = "©LWX"
   subtitle = "知之为知之，不知为不知"
   description = "LWX Blog"
   paginate = 10
-  toc = true  
+  toc = false  
   fancybox = true 
 
   # Choose your social networks
-  email = "15210760734@163.com"
-  github = "LWX"
+  email = "1248582385@qq.com"
+  github = "LWX124"
   #twitter = "twitter_username"
   #linkedin = "linkedin_username"
   weibo = "小爷爱美人"
